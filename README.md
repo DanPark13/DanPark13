@@ -21,6 +21,7 @@ I'm a sophomore student at the [Franklin W. Olin College of Engineering](https:/
 ## 🤔 I'm interested in...
 - 📂 Contributing to Open Source Projects
 - 🖥️ Digital Transformation
+- ☕ Linux Distribution Flavors
 - 🌲 Conservation Policies
 
 <!-- - 👯 I’m looking to collaborate on ...
