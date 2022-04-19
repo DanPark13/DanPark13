@@ -1,4 +1,4 @@
-<p align="center"><em>Someday is not a day of the week - Janet Dailey</em>
+<p align="center"><em>There's no time like the present! - John Trusler</em>
 
 # Hello There! 👋
 
@@ -6,7 +6,7 @@ My name is Daniel Park, but you can just call me Dan (he/him/his).
 
 I'm a sophomore student at the [Franklin W. Olin College of Engineering](https://www.olin.edu) studying computer science. I'll be updating this page from time to time with updates on what I'm doing and/or interested in, but for now, check out my stuff here and my [portfolio website](https://danpark13.github.io/)!
 
-## 🔭 I’m currently working on...
+<!-- ## 🔭 I’m currently working on...
 - 💬 Discord Bot that sends Timed Messages
 - 🚧 Redesigning my Portfolio Website
 
@@ -19,7 +19,7 @@ I'm a sophomore student at the [Franklin W. Olin College of Engineering](https:/
 - 📂 Contributing to Open Source Projects
 - 🖥️ Digital Transformation
 - ☕ Linux Distribution Flavors
-- 💰 Cryptocurrencies
+- 💰 Cryptocurrencies -->
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -29,7 +29,7 @@ I'm a sophomore student at the [Franklin W. Olin College of Engineering](https:/
 - ✉️ dpark0703@gmail.com
 - 🏫 dpark@olin.edu
 
-## ⚡ Fun facts...
+<!-- ## ⚡ Fun facts...
 - 🎵 I play the piano, flute, cello, and [hand-whistle](https://www.youtube.com/watch?v=A9wnb7GizrA&ab_channel=HalWalker)!
 - ⚽ I love playing soccer, volleyball, running, and working out!
-- ✨ I enjoy anything Animanga!
+- ✨ I enjoy anything Animanga! -->
