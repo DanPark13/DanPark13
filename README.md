@@ -4,7 +4,7 @@
 
 My name is Daniel Park, but you can just call me Dan (he/him/his).
 
-I'm a sophomore student at the [Franklin W. Olin College of Engineering](https://www.olin.edu) studying computer science. I'll be updating this page from time to time with updates on what I'm doing and/or interested in, but for now, check out my stuff here and my [portfolio website](https://danpark13.github.io/)!
+I'm a sophomore student at the [Franklin W. Olin College of Engineering](https://www.olin.edu) studying computer science. I'll be updating this page from time to time with updates on what I'm doing and/or interested in, but for now, check out my stuff here and my [portfolio website](https://danpark13.github.io/)! (WIP)
 
 <!-- ## 🔭 I’m currently working on...
 - 💬 Discord Bot that sends Timed Messages
