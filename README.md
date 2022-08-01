@@ -9,8 +9,9 @@ I'm an incoming junior at the [Franklin W. Olin College of Engineering](https://
 ## ☀️ This summer I am...
 - 🔬 Interning as a Business Analyst @ Pfizer
 - 🖥️ Mastering the Technical Interviews w/ CodePath
-- 📈 Working towards my [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Y3PXBUPXEKAC) (**Completed** ✔️)
 - 🤖 Going in depth into Statistical & Machine Learning
+- 📈 Working towards my [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Y3PXBUPXEKAC) (**Completed** ✔️)
+- ☕ Working towards my Pl-900 and AWS Cloud Practitioner Certificates 
 
 I'll be updating this page from time to time with updates on what I'm doing and/or interested in, but for now, check out my stuff here and my [portfolio website](https://danpark13.github.io/)!
   
