@@ -8,7 +8,7 @@ I'm an incoming junior at the [Franklin W. Olin College of Engineering](https://
 
 ## 🤔 I'm particularly interested in...
 - 📊 Real World Data Science/Machine Learning Applications
-- 🧑‍🏫 Modern Teaching Culture
+- 🧑‍🏫 Modern Tech Education
 - 🎨 User Experience Design
 
 ## ☀️ This summer I am...
