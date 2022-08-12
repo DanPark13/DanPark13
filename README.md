@@ -37,7 +37,7 @@ I'll be updating this page from time to time with updates on what I'm doing and/
 - 💬 Ask me about ... -->
 
 ## ⚡ Fun facts...
-- 🎵 I play the piano, flute, cello, and [hand-whistle](https://www.youtube.com/watch?v=A9wnb7GizrA&ab_channel=HalWalker)!
+- 🎵 I play the piano, flute, [cello](https://www.youtube.com/watch?v=OJLrD3mBkVM&ab_channel=DanielPark), and [hand-whistle](https://www.youtube.com/watch?v=TL5ZBja8sWI&ab_channel=DanielPark)!
 - ⚽ I love playing soccer, volleyball, running, and working out!
 - ✨ I enjoy anything Animanga! (I have online profiles that I'd rather keep anonymous 😉)
 
