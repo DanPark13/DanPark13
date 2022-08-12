@@ -12,7 +12,7 @@ I'm an incoming junior at the [Franklin W. Olin College of Engineering](https://
 - 🧑‍🏫 Modern Tech Education
 
 ## ☀️ This summer I am...
-- 🔬 Interning as a Business Analyst @ [Pfizer](https://www.pfizer.com/)
+- 🔬 Interning as a Business Enablement Solutions Analyst @ [Pfizer](https://www.pfizer.com/)
 - 🖥️ Mastering the Technical Interviews w/ [CodePath](https://www.codepath.org/)
 - 🤖 Learning Statistical & Machine Learning through [Introduction to Statistical Learning](https://www.statlearning.com/) & Andrew Ng's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - 📈 Working towards my [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Y3PXBUPXEKAC) (**Completed** ✔️)
