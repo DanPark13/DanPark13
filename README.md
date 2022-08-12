@@ -8,15 +8,15 @@ I'm an incoming junior at the [Franklin W. Olin College of Engineering](https://
 
 ## 🤔 I'm particularly interested in...
 - 📊 Real World Data Science/Machine Learning Applications
-- 🧑‍🏫 Modern Tech Education
 - 🎨 User Experience Design
+- 🧑‍🏫 Modern Tech Education
 
 ## ☀️ This summer I am...
-- 🔬 Interning as a Business Analyst @ Pfizer
-- 🖥️ Mastering the Technical Interviews w/ CodePath
-- 🤖 Going in depth into Statistical & Machine Learning
+- 🔬 Interning as a Business Analyst @ [Pfizer](https://www.pfizer.com/)
+- 🖥️ Mastering the Technical Interviews w/ [CodePath](https://www.codepath.org/)
+- 🤖 Learning Statistical & Machine Learning through [Introduction to Statistical Learning](https://www.statlearning.com/) & Andrew Ng's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - 📈 Working towards my [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Y3PXBUPXEKAC) (**Completed** ✔️)
-- ☕ Working towards Microsoft's PL-900 and AWS Cloud Practitioner Certificates 
+- ☕ Working towards my [AWS Cloud Practitioner Certificate](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 I'll be updating this page from time to time with updates on what I'm doing and/or interested in, but for now, check out my stuff here and my [portfolio website](https://danpark13.github.io/)!
   
