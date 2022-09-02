@@ -1,6 +1,4 @@
-<h1>Hello there! 👋</h1>
-
-## Welcome to my page! 👐
+# Hello there! 👋
 
 My name is Daniel, and I'm a junior at the [Franklin W. Olin College of Engineering](https://www.olin.edu/) studying Engineering in Computing (CS). I'm interested in AI Applications, Front-end Engineering, UX Design, and Tech Education! I have previous interned at [Pfizer](https://www.pfizer.com/) as a Business Enablement Solutions Analyst and [Saudi Aramco](https://www.aramco.com/) as a [Digital Transformation Intern](https://youtu.be/l2-v8Wp2RjI?t=203).
 
