@@ -6,7 +6,7 @@ My name is Daniel, and I'm a junior at the [Franklin W. Olin College of Engineer
 
 While you're here, feel free to check out what I've been [working on](https://github.com/DanPark13?tab=repositories) and feel free to [connect](https://www.linkedin.com/in/danielpark13/) with me!
 
-## Where to Find Me
+## Where to Find Me 🔎
 
 <p><a href="https://github.com/DanPark13" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/danjaepark" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/danielpark13/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@danpark13" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
