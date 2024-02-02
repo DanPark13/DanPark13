@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Daniel, and I'm a junior at the [Franklin W. Olin College of Engineering](https://www.olin.edu/) studying Engineering in Computing (CS). I'm interested in Full Stack Engineering, AI Applications, UX Design, and Tech Education! I have previous interned at [JP Morgan](https://www.jpmorgan.com/global) as a Software Engineering Intern, [Pfizer](https://www.pfizer.com/) as a Business Enablement Solutions Analyst, and [Saudi Aramco](https://www.aramco.com/) as a [Digital Transformation Intern](https://youtu.be/l2-v8Wp2RjI?t=203).
+My name is Daniel, and I'm a junior at the [Franklin W. Olin College of Engineering](https://www.olin.edu/) studying Engineering in Computing (CS). I'm interested in Full Stack Engineering, AI Applications, UX Design, and Tech Education! I will be entering [Microsoft](https://www.microsoft.com/en-us/) as a Software Engineer Intern for Summer 2024. I have previous interned at [JP Morgan](https://www.jpmorgan.com/global) as a Software Engineering Intern, [Pfizer](https://www.pfizer.com/) as a Business Enablement Solutions Analyst, and [Saudi Aramco](https://www.aramco.com/) as a [Digital Transformation Intern](https://youtu.be/l2-v8Wp2RjI?t=203).
 
 While you're here, feel free to check out what I've been working on [here](https://github.com/DanPark13?tab=repositories) or on my [website](https://danpark13.github.io/)! (to be progressively updated). Feel free to also [connect](https://www.linkedin.com/in/dxnpxrk) with me!
 
